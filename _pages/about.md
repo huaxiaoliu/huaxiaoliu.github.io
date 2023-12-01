@@ -107,7 +107,7 @@ Journal of Software:Evolution and Process(2021.11 CCF-B)[PDF](https://onlinelibr
 Authors:Liu Lei, Li Xun, Liu Yuzhou*, **Liu Huaxiao**  
 
 [16]**App recommendation based on both quality and security**  
-Journal of Software: Evolution and Process(2021.3 CCF-B)[PDF](https://onlinelibrary.wiley.com/doi/10.1002/smr.2325)
+Journal of Software: Evolution and Process(2021.3 CCF-B)[PDF](https://onlinelibrary.wiley.com/doi/10.1002/smr.2325)   
 Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui，**Liu Huaxiao**  
 
 [17]**API Recommendation for the Development of Android App Features based on the Knowledge Mined from App Stores**.   
