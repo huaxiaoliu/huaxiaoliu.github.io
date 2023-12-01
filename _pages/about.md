@@ -15,25 +15,47 @@ From 2005 to 2013, he received his bachelor's and doctoral degrees from the Scho
 In terms of scientific research, data-driven approaches are taken as the core, targeting software communities and real-world problems. Technologies such as text analysis, data mining, code analysis, and deep learning are utilized to explore solutions.
 
 The research areas involved：
+
  · mainly include software engineering
+ 
  · human-computer interaction
+ 
  · data mining
+ 
  · expert systems
 
+
+
 Responsible for and leading projects:
+
 · National Key R&D Program sub project
+
 · Jilin Province Youth Research Fund project
+
 · Jilin University Excellent Young Teacher Key Training Program
+
 · Jilin University Excellent Youth Training Funding Program.
+
+
 
 NEWS
 ======
 
+
+
+
 2020/11     One reasearch paper was accepted by IEEE Transactions on Software Engineering(TSE)
+
 2023/9      Our reasearch paper was published on IEEE Transactions on Software Engineering(TSE 2023)
+
 2023/9      New paper accepted at Expert Systems with Applications 2023
+
 2023/6      New paper accepted at Information and Software Technology 2023
+
 2023/3      New paper accepted at Science of Computer Programming 2023
+
+
+
 
 Representative academic papers published
 ======
