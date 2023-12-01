@@ -51,11 +51,11 @@ Authors: Zhang Mengxi, **Liu Huaxiao***, Chen Chunyang, Gao Guangyong, Li Han, Z
  
 [2]**Which animation API should I use next? A multi-modal real-time animation API recommendation model for Android apps**.  
 IEEE Transactions on Software Engineering(2023 CCF-A)  
-Authors:Gao, Shanquan; Zhang, Liyuan; **Liu, Huaxiao**; Wang, Yihui  
+Authors:Gao Shanquan, Zhang Liyuan, **Liu Huaxiao**, Wang Yihui  
 
 [3]**Automated Mapping of Adaptive App GUIs from Phones to TVs.**  
 ACM Transactions on Software Engineering and Methodology(TOSEM 2023 CCF-A)  
-Authors: Hu, Han; Dong, Ruiqi; Grundy, John; Nguyen, Thai; **Liu, Huaxiao**; Chen, Chunyang.  
+Authors: Hu Han, Dong Ruiqi, Grundy John, Nguyen Thai, **Liu Huaxiao**, Chen Chunyang.  
 
 [4]**Animation2API: API Recommendation for the Implementation of Android UI Animations.**  
 IEEE Transactions on Software Engineering(2023.09 CCF-A)  
