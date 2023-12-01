@@ -7,14 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Personal Profile
+Personal ProfileResearch areas involved：
 ======
 Liu Huaxiao, from Changchun, Jilin.
 From 2005 to 2013, he received his bachelor's and doctoral degrees from the School of Computer Science, Jilin University, under the supervision of Professor Jin Ying. After graduating with a doctorate in 2013, he stayed on to teach, was promoted to associate professor in 2017, obtained doctoral enrollment qualifications from 2018~2019, and was elected as a member of the Software Engineering Professional Committee of the China Computer Federation in 2017.
 
 In terms of scientific research, data-driven approaches are taken as the core, targeting software communities and real-world problems. Technologies such as text analysis, data mining, code analysis, and deep learning are utilized to explore solutions.
 
-The research areas involved：
+Research areas involved：
+======
 
  · mainly include software engineering
  
@@ -24,10 +25,8 @@ The research areas involved：
  
  · expert systems
 
-
-
 Responsible for and leading projects:
-
+======
 · National Key R&D Program sub project
 
 · Jilin Province Youth Research Fund project
@@ -40,8 +39,6 @@ Responsible for and leading projects:
 
 NEWS
 ======
-
-
 
 
 2020/11     One reasearch paper was accepted by IEEE Transactions on Software Engineering(TSE)
