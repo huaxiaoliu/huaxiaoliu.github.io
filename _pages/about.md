@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Personal Information**  
-[Liu Huaxiao](https://teachers.jlu.edu.cn/LHX17/zh_CN/index.htm)  
+[Liu Huaxiao]([https://teachers.jlu.edu.cn/LHX17/zh_CN/index.htm](https://ccst.jlu.edu.cn/info/1208/17368.htm))  
 Associate Professor  
 [JiLin University(JLU)](https://www.jlu.edu.cn/)  
 E-mail:liuhuaxiao@jlu.edu.cn
@@ -21,19 +21,18 @@ Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before t
 
 
  **Research foucus on:**  
- · mainly include software engineering  
- · human-computer interaction  
- · data mining  
- · expert systems  
+ · Accessibility  
+ · Android App Analysis  
+ · Software Repository Mining
  
 NEWS
 ======
 
-2023/11     One reasearch paper was accepted by ACM Transactions on Software Engineering and Methodology(TOSEM)  
+2023/11     Two reasearch papers were accepted by IEEE Transactions on Software Engineering(TSE)
 
-2023/11     One reasearch paper was accepted by IEEE Transactions on Software Engineering(TSE)
+2023/10     One reasearch paper was accepted by ACM Transactions on Software Engineering and Methodology(TOSEM)  
 
-2023/9      Our reasearch paper was published on IEEE Transactions on Software Engineering(TSE 2023)
+2023/9      Our reasearch paper was published on IEEE Transactions on Software Engineering(TSE)
 
 2023/9      New paper accepted at Expert Systems with Applications 2023
 
@@ -46,17 +45,17 @@ NEWS
 
 Representative academic papers published
 ======
-[1]**Automated Mapping of Adaptive App GUIs from Phones to TVs.**  
-ACM Transactions on Software Engineering and Methodology(TOSEM 2023 CCF-A)  
-Authors: Hu, Han; Dong, Ruiqi; Grundy, John; Nguyen, Thai; **Liu, Huaxiao**; Chen, Chunyang.  
+[1]**AccessFixer: Enhancing GUI Accessibility for Low Vision Users with R-GCN Model.**  
+IEEE Transactions on Software Engineering(2023 CCF-A)  
+Authors: Zhang Mengxi, **Liu Huaxiao***, Chen Chunyang, Gao Guangyong, Li Han, Zhao Jian  
  
 [2]**Which animation API should I use next? A multi-modal real-time animation API recommendation model for Android apps**.  
 IEEE Transactions on Software Engineering(2023 CCF-A)  
 Authors:Gao, Shanquan; Zhang, Liyuan; **Liu, Huaxiao**; Wang, Yihui  
 
-[3]**AccessFixer: Enhancing GUI Accessibility for Low Vision Users with R-GCN Model.**  
-IEEE Transactions on Software Engineering(2023 CCF-A)  
-Authors: Zhang Mengxi, **Liu Huaxiao**, Chen Chunyang, Gao Guangyong, Li Han, Zhao Jian  
+[3]**Automated Mapping of Adaptive App GUIs from Phones to TVs.**  
+ACM Transactions on Software Engineering and Methodology(TOSEM 2023 CCF-A)  
+Authors: Hu, Han; Dong, Ruiqi; Grundy, John; Nguyen, Thai; **Liu, Huaxiao**; Chen, Chunyang.  
 
 [4]**Animation2API: API Recommendation for the Implementation of Android UI Animations.**  
 IEEE Transactions on Software Engineering(2023.09 CCF-A)  
@@ -67,11 +66,11 @@ Journal of Systems Architecture(2023 CCF-B)
 Authors:Guangli Li, Xiu Ma,Qiuchu Yu,Lei Liu,**Liu Huaxiao**,Xueying Wang  
 
 [6]**Enhancing accessibility of web-based SVG buttons: An optimization method and best practicesb.**  
-Expert Systems with Applications(CCF-B)    
+Expert Systems with Applications(2024.4 CCF-C 中科院1区)    
 Authors:ZHANG Mengxi,ZHANG Yan,GAO Guangyong,**LIU Huaxiao***  
 
 [7]**Automating discussion structure re-organization for GitHub issues.**  
-Expert Systems with Applications(2023.9 CCF-B)  
+Expert Systems with Applications(2023.9 CCF-C 中科院一区)  
 Authors:Bai Shuotong,Liu Lei,Meng Chenkun,**Liu Huaxiao***  
 
 [8]**Describing the APIs comprehensively: Obtaining the holistic representations from multiple modalities data for different tasks.**  
@@ -84,10 +83,10 @@ Authors:Wang Yihui,Gao Shanquan,Li Xingtong,Liu Lei,**Liu Huaxiao***
 
 [10]**A lightweight API recommendation method for App development based on multi-objective evolutionary algorithm.**  
 Science of Computer Programming(2023.3 CCF-B)    
-Authors:Xun Li, Lei Liu, Yuzhou Liu*, **Huaxiao Liu**  
+Authors:Li Xun, Liu Lei, Liu Yuzhou, **Liu Huaxiao**  
  
 [11]**UISMiner: Mining UI Suggestions from User Reviews**.  
-Expert Systems With Applications(2022.11 CCF-B)   
+Expert Systems With Applications(2022.11 CCF-C 中科院1区)   
 Authors:Wang Yihui,Gao Shanquan,Zhang Yan,**Liu Huaxiao***  
 
 [12]**Find Potential Partners: A GitHub User Recommendation Method Based on Event Data**.  
@@ -96,11 +95,11 @@ Authors:Bai Shuotong, Liu Lei, **Liu Huaxiao***, Zhang Mengxi, Meng Chenkun, Zha
 
 [13]**FlexPDA: A Flexible Programming Framework for Deep Learning Accelerators**.  
 Journal of Computer Science& Technology(2022.10 CCF-B)  
-Authors:LIU Lei,MA Xiu,**LIU Huaxiao***  
+Authors:Liu Lei,Ma Xiu,**Liu Huaxiao***  
 
 [14]**Consistent or not? An Investigation of Using Pull Request Template in GitHub**.  
 Information and Software Technology(2022.4 CCF-B)  
-Authors:Zhang Mengxi,**Liu Huaxiao**, Chen Chunyang, Liu Yuzhou, Bai Shuotong  
+Authors:Zhang Mengxi,**Liu Huaxiao***, Chen Chunyang, Liu Yuzhou, Bai Shuotong  
 
 [15]**Mining Detailed Information from Description for App Functions Comparison**.  
 IET Software(2022.2 CCF-B)  
@@ -116,11 +115,11 @@ Authors:**Liu Huaxiao**, Wang Yihui, Liu Yuzhou*, Gao Shanquan
 
 [18]**Application programming interface recommendation according to the knowledge indexed by app feature mined from app stores**. 
 Journal of Software:Evolution and Process（2021.11 CCF-B）  
-Authors:Lei Liu, Xun Li, Yuzhou Liu*, **Huaxiao Liu**  
+Authors:Liu Lei, Li Xun, Liu Yuzhou*, **Huaxiao Liu**  
 
 [19]**API Recommendation for the Development of Android App Features based on the Knowledge Mined from App Stores**.   
 Science of Computer Programming（2021.02 CCF-B）  
-Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui  
+Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui，Liu Huaxiao  
 
 [20]**App Store Mining for Iterative Domain Analysis:Combine App descriptions with user Reviews**.   
 Software:Practice and Experience (2019.06 CCF-B)  
@@ -156,7 +155,7 @@ Authors:Ma Xiu, Li Guangli*, Liu Lei, **Liu Huaxiao**
 
 [28]**Categorizing npm Packages by Analyzing the Text Information in Software Repositories**.   
 APSEC 2021(2021.12 CCF-C)  
-Authors:Wang Yu,**Liu Huaxiao**, Gao Shanquan, Li Shujia 
+Authors:Wang Yu,**Liu Huaxiao***, Gao Shanquan, Li Shujia 
 
 [31] **A Study on the Referential Semantics of Tabular Expressions in Chinese Journal of Software**, 2014  
 
