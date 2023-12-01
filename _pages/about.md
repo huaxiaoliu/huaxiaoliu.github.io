@@ -122,41 +122,41 @@ Authors:Lei Liu, Xun Li, Yuzhou Liu*, **Huaxiao Liu**
 Science of Computer Programming（2021.02 CCF-B）  
 Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui  
 
-[20]**App Store Mining for Iterative Domain Analysis:Combine App descriptions with user Reviews**. 
+[20]**App Store Mining for Iterative Domain Analysis:Combine App descriptions with user Reviews**.  
 Software:Practice and Experience (2019.06 CCF-B)  
 Authors:Liu Yuzhou, Liu Lei, **Liu Huaxiao***, Yin Xinglong  
 
-[21]**Analyzing Reviews Guided by App Description for the Software Development and Evolution**. 
+[21]**Analyzing Reviews Guided by App Description for the Software Development and Evolution**.  
 Journal of software-evolution and process (2018.12 CCF-B)   
 Authors:Yuzhou Liu, Lei Liu, **Huaxiao Liu***, Xiaoyu Wang  
 
-[22]**Mining Domain Knowledge from App Descriptions**.  
+[22]**Mining Domain Knowledge from App Descriptions**.   
 Journal of system and software (2017.11 CCF-B)  
 Authors:Yuzhou Liu, Lei Liu, **Huaxiao Liu***, Xiaoyu Wang  
 
-[23]**The Verification of Program Relationships in the Context of Software Cybernetics**.  
+[23]**The Verification of Program Relationships in the Context of Software Cybernetics**.   
 Journal of Systems and Software (2017.02 CCF-B)  
 Authors:**LIU Huaxiao**,LIU Yuzhou,LIU Lei*  
 
-[24]**UiAnalyzer: Evaluating whether the UI of apps is at the risk of violating the design conventions in terms of function layout**.   
+[24]**UiAnalyzer: Evaluating whether the UI of apps is at the risk of violating the design conventions in terms of function layout**.    
 Expert Systems with Applications(2024 CCF-C) 
 Authors:Gao Shanquan, Wang Yihui, **Liu Huaxiao**
 
-[25]**AGAA: An Android GUI Accessibility Adapter for Low Vision Users**.  
+[25]**AGAA: An Android GUI Accessibility Adapter for Low Vision Users**.   
 IEEE Annual International Computer Software and Applications Conference (COMPSAC 2023.6 CCF-C)  
-XU Yifang,**LIU Huaxiao***  
+Authors:XU Yifang,**LIU Huaxiao***  
 
-[26]**Accelerating deep neural network filter pruning with mask-aware convolutional computations on modern CPUs**.   
+[26]**Accelerating deep neural network filter pruning with mask-aware convolutional computations on modern CPUs**.    
 Neurocomputing(2022.9 CCF-C)  
-Ma Xiu, Li Guangli*, Liu Lei, **Liu Huaxiao**  
+Authors:Ma Xiu, Li Guangli*, Liu Lei, **Liu Huaxiao**  
 
 [27]**Understanding the Runtime Overheads of Deep Learning Inference on Edge Devices.**   
 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking(2021 CCF-C)  
-Ma Xiu, Li Guangli*, Liu Lei, **Liu Huaxiao**  
+Authors:Ma Xiu, Li Guangli*, Liu Lei, **Liu Huaxiao**  
 
 [28]**Categorizing npm Packages by Analyzing the Text Information in Software Repositories**.   
 APSEC 2021(2021.12 CCF-C)  
-Wang Yu,**Liu Huaxiao**, Gao Shanquan, Li Shujia 
+Authors:Wang Yu,**Liu Huaxiao**, Gao Shanquan, Li Shujia 
 
 [31] **A Study on the Referential Semantics of Tabular Expressions in Chinese Journal of Software**, 2014  
 
