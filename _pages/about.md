@@ -47,7 +47,7 @@ NEWS
 Representative academic papers published
 ======
 [1]**Automated Mapping of Adaptive App GUIs from Phones to TVs.**  ACM Transactions on Software Engineering and Methodology(2023 CCF-A)  
-  **Authors**: Hu, Han; Dong, Ruiqi; Grundy, John; Nguyen, Thai; **Liu, Huaxiao**; Chen, Chunyang.  
+  Authors: Hu, Han; Dong, Ruiqi; Grundy, John; Nguyen, Thai; **Liu, Huaxiao**; Chen, Chunyang.  
 
 [2]**CoAxNN: Optimizing on-device deep learning with conditional approximate neural networks**.  Journal of Systems Architecture(2023 CCF-B)  
 Authors:Guangli Li, Xiu Ma,Qiuchu Yu,Lei Liu,**Liu Huaxiao**,Xueying Wang
