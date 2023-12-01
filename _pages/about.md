@@ -19,10 +19,10 @@ Representative academic papers published
 **CCF-A**
 
 [1]AccessFixer: Enhancing GUI Accessibility for Low Vision Users with R-GCN Model. IEEE Transactions on Software Engineering
-Authors: Zhang Mengxi, Liu Huafu *, Chen Chunyang, Gao Guangyong, Li Han, Zhao Jian
+Authors: Zhang Mengxi, Liu Huaxiao *, Chen Chunyang, Gao Guangyong, Li Han, Zhao Jian
 
 [2]Animation2API: API Recommendation for the Implementation of Android UI Animations. IEEE Transactions on Software Engineering(2023.09)
-Authors: Wang Yihui, Liu Huafu *, Gao Shanquan
+Authors: Wang Yihui, Liu Huaxiao*, Gao Shanquan
 
 **CCF-B**
 
