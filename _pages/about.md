@@ -7,14 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+**Personal Information**  
+[Liu Huaxiao](https://teachers.jlu.edu.cn/LHX17/zh_CN/index.htm)  
+Associate Professor  
+[JiLin University(JLU)](https://www.jlu.edu.cn/)  
+E-mail:liuhuaxiao@jlu.edu.cn
+
 Personal Profile：
-======
-[Liu Huaxiao](https://teachers.jlu.edu.cn/LHX17/zh_CN/index.htm)
-From 2005 to 2013, he received his bachelor's and doctoral degrees from the School of Computer Science, Jilin University, under the supervision of Professor Jin Ying. After graduating with a doctorate in 2013, he stayed on to teach, was promoted to associate professor in 2017, obtained doctoral enrollment qualifications from 2018~2019, and was elected as a member of the Software Engineering Professional Committee of the China Computer Federation in 2017.
+======   
+  
+Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before that,he received education at Jilin University and obtained bachelor's and doctoral degrees(2005--2013), and was surpervised by Professor Jin Ying.He also worked as a member of the Software Engineering Committee of China Computer Federation.
 
-In terms of scientific research, data-driven approaches are taken as the core, targeting software communities and real-world problems. Technologies such as text analysis, data mining, code analysis, and deep learning are utilized to explore solutions.
-
-**Research areas involved：**  
+**Research focus on：**  
  · mainly include software engineering  
  · human-computer interaction  
  · data mining  
