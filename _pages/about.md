@@ -157,8 +157,8 @@ Authors:Ma Xiu, Li Guangli*, Liu Lei, **Liu Huaxiao**
 APSEC 2021(2021.12 CCF-C)  
 Authors:Wang Yu,**Liu Huaxiao***, Gao Shanquan, Li Shujia 
 
-[31] **A Study on the Referential Semantics of Tabular Expressions in Chinese Journal of Software**, 2014  
+[31] **A Study on the Referential Semantics of Tabular Expressions in Chinese Journal of Software**, 2014 软件学报  
 
-[32] **An Analysis and Validation Method for Aspect Oriented Requirements Model, Journal of Computer Science**, 2013  
+[32] **An Analysis and Validation Method for Aspect Oriented Requirements Model, Journal of Computer Science**, 2013 计算机学报 
 
-[33] **A Method for Analyzing the Impact of Requirements Changes in Computer Research and Development**, 2013   
+[33] **A Method for Analyzing the Impact of Requirements Changes in Computer Research and Development**, 2013 计算机研究与发展 
