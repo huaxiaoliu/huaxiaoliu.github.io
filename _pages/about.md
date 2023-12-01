@@ -34,11 +34,11 @@ NEWS
 
 2023/9      Our reasearch paper was published on IEEE Transactions on Software Engineering(TSE)
 
-2023/9      New paper accepted at Expert Systems with Applications 2023
+2023/9      New paper accepted at Expert Systems with Applications
 
-2023/6      New paper accepted at Information and Software Technology 2023
+2023/6      New paper accepted at Information and Software Technology
 
-2023/3      New paper accepted at Science of Computer Programming 2023
+2023/3      New paper accepted at Science of Computer Programming
 
 
 
@@ -67,7 +67,7 @@ Authors:Guangli Li, Xiu Ma,Qiuchu Yu,Lei Liu,**Liu Huaxiao**,Xueying Wang
 
 [6]**Enhancing accessibility of web-based SVG buttons: An optimization method and best practicesb.**  
 Expert Systems with Applications(2024.4 CCF-C 中科院1区)    
-Authors:ZHANG Mengxi,ZHANG Yan,GAO Guangyong,**LIU Huaxiao***  
+Authors:Zhang Mengxi,Zhang Yan,Gao Guangyong,**Liu Huaxiao***  
 
 [7]**Automating discussion structure re-organization for GitHub issues.**  
 Expert Systems with Applications(2023.9 CCF-C 中科院一区)  
@@ -75,7 +75,7 @@ Authors:Bai Shuotong,Liu Lei,Meng Chenkun,**Liu Huaxiao***
 
 [8]**Describing the APIs comprehensively: Obtaining the holistic representations from multiple modalities data for different tasks.**  
 Information and Software Technology (2023.6 CCF-B)  
-Authors:Xun Li, Lei Liu, Zhiqi Chen, Yuzhou Liu*, **Huaxiao Liu**  
+Authors:Li Xun, Liu Lei, Chen Zhiqi, Liu Yuzhou*, **Liu Huaxiao**  
 
 [9]**Missing Standard Features Compared with Similar Apps? A Feature Recommendation Method based on the Knowledge from User Interface.**  
 Journal of Systems & Software (2022.11 CCF-B)  
@@ -107,7 +107,7 @@ Authors:**Liu Huaxiao***, Yin Xinglong, Gao Shanquan, Zhang Mengxi
 
 [16]**A method to acquire cross-domain requirements based on Syntax Direct Technique**.  
 Software: Practice and Experience(2022.1 CCF-B)  
-Authors:**LIU Huaxiao***, ZHANG Mengxi, LIU Lei, LIU Zhou  
+Authors:**Liu Huaxiao***, Zhang Mengxi, Liu Lei, Liu Zhou  
 
 [17]**Supporting Features Updating of Apps by Analyzing Similar Products in App Stores**.    
 Information Sciences  (2021.11 CCF-B)  
@@ -115,11 +115,11 @@ Authors:**Liu Huaxiao**, Wang Yihui, Liu Yuzhou*, Gao Shanquan
 
 [18]**Application programming interface recommendation according to the knowledge indexed by app feature mined from app stores**. 
 Journal of Software:Evolution and Process（2021.11 CCF-B）  
-Authors:Liu Lei, Li Xun, Liu Yuzhou*, **Huaxiao Liu**  
+Authors:Liu Lei, Li Xun, Liu Yuzhou*, **Liu Huaxiao**  
 
 [19]**API Recommendation for the Development of Android App Features based on the Knowledge Mined from App Stores**.   
 Science of Computer Programming（2021.02 CCF-B）  
-Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui，Liu Huaxiao  
+Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui，**Liu Huaxiao**  
 
 [20]**App Store Mining for Iterative Domain Analysis:Combine App descriptions with user Reviews**.   
 Software:Practice and Experience (2019.06 CCF-B)  
@@ -127,15 +127,15 @@ Authors:Liu Yuzhou, Liu Lei, **Liu Huaxiao***, Yin Xinglong
 
 [21]**Analyzing Reviews Guided by App Description for the Software Development and Evolution**.  
 Journal of software-evolution and process (2018.12 CCF-B)   
-Authors:Yuzhou Liu, Lei Liu, **Huaxiao Liu***, Xiaoyu Wang  
+Authors:Liu Yuzhou, Liu Lei, **Liu Huaxiao***,Wang Xiaoyu  
 
 [22]**Mining Domain Knowledge from App Descriptions**.   
 Journal of system and software (2017.11 CCF-B)  
-Authors:Yuzhou Liu, Lei Liu, **Huaxiao Liu***, Xiaoyu Wang  
+Authors:Liu Yuzhou,Liu Lei, **Liu Huaxiao***  
 
 [23]**The Verification of Program Relationships in the Context of Software Cybernetics**.   
 Journal of Systems and Software (2017.02 CCF-B)  
-Authors:**LIU Huaxiao**,LIU Yuzhou,LIU Lei*  
+Authors:**Liu Huaxiao**,Liu Yuzhou,Liu Lei*  
 
 [24]**UiAnalyzer: Evaluating whether the UI of apps is at the risk of violating the design conventions in terms of function layout**.    
 Expert Systems with Applications(2024 CCF-C)   
@@ -143,7 +143,7 @@ Authors:Gao Shanquan, Wang Yihui, **Liu Huaxiao**
 
 [25]**AGAA: An Android GUI Accessibility Adapter for Low Vision Users**.   
 IEEE Annual International Computer Software and Applications Conference (COMPSAC 2023.6 CCF-C)  
-Authors:XU Yifang,**LIU Huaxiao***  
+Authors:Xu Yifang,**Liu Huaxiao***  
 
 [26]**Accelerating deep neural network filter pruning with mask-aware convolutional computations on modern CPUs**.    
 Neurocomputing(2022.9 CCF-C)  
