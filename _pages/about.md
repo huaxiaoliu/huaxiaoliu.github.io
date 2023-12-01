@@ -110,7 +110,7 @@ Authors:**Liu Huaxiao***, Yin Xinglong, Gao Shanquan, Zhang Mengxi
 Software: Practice and Experience(2022.1 CCF-B)  
 Authors:**LIU Huaxiao***, ZHANG Mengxi, LIU Lei, LIU Zhou  
 
-[17]**Supporting Features Updating of Apps by Analyzing Similar Products in App Stores**. 
+[17]**Supporting Features Updating of Apps by Analyzing Similar Products in App Stores**.  
 Information Sciences  (2021.11 CCF-B)  
 Authors:**Liu Huaxiao**, Wang Yihui, Liu Yuzhou*, Gao Shanquan  
 
@@ -118,11 +118,11 @@ Authors:**Liu Huaxiao**, Wang Yihui, Liu Yuzhou*, Gao Shanquan
 Journal of Software:Evolution and Process（2021.11 CCF-B）  
 Authors:Lei Liu, Xun Li, Yuzhou Liu*, **Huaxiao Liu**  
 
-[19]**API Recommendation for the Development of Android App Features based on the Knowledge Mined from App Stores**. 
+[19]**API Recommendation for the Development of Android App Features based on the Knowledge Mined from App Stores**.  
 Science of Computer Programming（2021.02 CCF-B）  
 Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui  
 
-[20]**App Store Mining for Iterative Domain Analysis:Combine App descriptions with user Reviews**.  
+[20]**App Store Mining for Iterative Domain Analysis:Combine App descriptions with user Reviews**.   
 Software:Practice and Experience (2019.06 CCF-B)  
 Authors:Liu Yuzhou, Liu Lei, **Liu Huaxiao***, Yin Xinglong  
 
@@ -139,7 +139,7 @@ Journal of Systems and Software (2017.02 CCF-B)
 Authors:**LIU Huaxiao**,LIU Yuzhou,LIU Lei*  
 
 [24]**UiAnalyzer: Evaluating whether the UI of apps is at the risk of violating the design conventions in terms of function layout**.    
-Expert Systems with Applications(2024 CCF-C) 
+Expert Systems with Applications(2024 CCF-C)   
 Authors:Gao Shanquan, Wang Yihui, **Liu Huaxiao**
 
 [25]**AGAA: An Android GUI Accessibility Adapter for Low Vision Users**.   
