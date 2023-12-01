@@ -22,16 +22,12 @@ Research areas involved：
  · data mining  
  · expert systems  
 
-Responsible for and leading projects:  
-· National Key R&D Program sub project
-
-· Jilin Province Youth Research Fund project
-
-· Jilin University Excellent Young Teacher Key Training Program
-
-· Jilin University Excellent Youth Training Funding Program.
-
-
+Responsible for and leading projects:
+======
+· National Key R&D Program sub project  
+· Jilin Province Youth Research Fund project  
+· Jilin University Excellent Young Teacher Key Training Program  
+· Jilin University Excellent Youth Training Funding Program.  
 
 NEWS
 ======
