@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "个人主页"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,20 +17,13 @@ E-mail:liuhuaxiao@jlu.edu.cn
 Personal Profile：
 ======   
   
-Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before that,he received education at Jilin University and obtained bachelor's and doctoral degrees(2005--2013), and was surpervised by Professor Jin Ying.He also worked as a member of the Software Engineering Committee of China Computer Federation.
-
-**Research focus on：**  
+Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before that,he received education at Jilin University and obtained bachelor's and doctoral degrees(2005--2013), and was surpervised by Professor Jin Ying.He also worked as a member of the Software Engineering Committee of China Computer Federation.  
+His research foucus on:  
  · mainly include software engineering  
  · human-computer interaction  
  · data mining  
  · expert systems  
-
-**Responsible for and leading projects:**  
-· National Key R&D Program sub project  
-· Jilin Province Youth Research Fund project  
-· Jilin University Excellent Young Teacher Key Training Program  
-· Jilin University Excellent Youth Training Funding Program.  
-
+ 
 NEWS
 ======
 
