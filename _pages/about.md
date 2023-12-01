@@ -17,16 +17,12 @@ In terms of scientific research, data-driven approaches are taken as the core, t
 Research areas involved：
 ======
 
- · mainly include software engineering
- 
- · human-computer interaction
- 
- · data mining
- 
- · expert systems
+ · mainly include software engineering  
+ · human-computer interaction  
+ · data mining  
+ · expert systems  
 
-Responsible for and leading projects:
-======
+Responsible for and leading projects:  
 · National Key R&D Program sub project
 
 · Jilin Province Youth Research Fund project
