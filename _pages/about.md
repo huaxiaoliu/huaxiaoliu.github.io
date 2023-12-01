@@ -49,61 +49,61 @@ Authors:ZHANG Mengxi,ZHANG Yan,GAO Guangyong,LIU Huaxiao*
 Authors:Bai Shuotong,Liu Lei,Meng Chenkun,Liu Huaxiao*
 
 [5]Describing the APIs comprehensively: Obtaining the holistic representations from multiple modalities data for different tasks.  Information and Software Technology (2023.6)
-Xun Li, Lei Liu, Zhiqi Chen, Yuzhou Liu*, Huaxiao Liu
+Authors:Xun Li, Lei Liu, Zhiqi Chen, Yuzhou Liu*, Huaxiao Liu
 
 [6]Missing Standard Features Compared with Similar Apps? A Feature Recommendation Method based on the Knowledge from User Interface.  Journal of Systems & Software (2022.11)
-Wang Yihui,Gao Shanquan,Li Xingtong,Liu Lei,Liu Huaxiao*
+Authors:Wang Yihui,Gao Shanquan,Li Xingtong,Liu Lei,Liu Huaxiao*
 
 [7]A lightweight API recommendation method for App development based on multi-objective evolutionary algorithm.  Science of Computer Programming(2023.3)
-Xun Li, Lei Liu, Yuzhou Liu*, Huaxiao Liu
+Authors:Xun Li, Lei Liu, Yuzhou Liu*, Huaxiao Liu
 
 [8]UISMiner: Mining UI Suggestions from User Reviews.  Expert Systems With Applications(2022.11)
-Wang Yihui,Gao Shanquan,Zhang Yan,Liu Huaxiao*
+Authors:Wang Yihui,Gao Shanquan,Zhang Yan,Liu Huaxiao*
 
 [9]Find Potential Partners: A GitHub User Recommendation Method Based on Event Data.  Information and Software Technology(2022.10)
-Bai Shuotong, Liu Lei, Liu Huaxiao*, Zhang Mengxi, Meng Chenkun, Zhang Peng
+Authors:Bai Shuotong, Liu Lei, Liu Huaxiao*, Zhang Mengxi, Meng Chenkun, Zhang Peng
 
 [10]FlexPDA: A Flexible Programming Framework for Deep Learning Accelerators.  Journal of Computer Science& Technology(2022.10)
-LIU Lei,MA Xiu,LIU Huaxiao*
+Authors:LIU Lei,MA Xiu,LIU Huaxiao*
 
 [11]Consistent or not? An Investigation of Using Pull Request Template in GitHub.  Information and Software Technology(2022.4)
-Zhang Mengxi, Liu Huaxiao*, Chen Chunyang, Liu Yuzhou, Bai Shuotong
+Authors:Zhang Mengxi, Liu Huaxiao*, Chen Chunyang, Liu Yuzhou, Bai Shuotong
 
 [12]Mining Detailed Information from Description for App Functions Comparison.  IET Software(2022.2)
-Liu Huaxiao*, Yin Xinglong, Gao Shanquan, Zhang Mengxi
+Authors:Liu Huaxiao*, Yin Xinglong, Gao Shanquan, Zhang Mengxi
 
 [13]A method to acquire cross-domain requirements based on Syntax Direct Technique.  Software: Practice and Experience(2022.1)
-LIU Huaxiao*, ZHANG Mengxi, LIU Lei, LIU Zhou
+Authors:LIU Huaxiao*, ZHANG Mengxi, LIU Lei, LIU Zhou
 
 [14]Supporting Features Updating of Apps by Analyzing Similar Products in App Stores. Information Sciences  (2021.11)
-Liu Huaxiao, Wang Yihui, Liu Yuzhou*, Gao Shanquan
+Authors:Liu Huaxiao, Wang Yihui, Liu Yuzhou*, Gao Shanquan
 
 [15]Application programming interface recommendation according to the knowledge indexed by app feature mined from app stores. Journal of Software:Evolution and Process（2021.11）
-Lei Liu, Xun Li, Yuzhou Liu*, Huaxiao Liu
+Authors:Lei Liu, Xun Li, Yuzhou Liu*, Huaxiao Liu
 
 [16]API Recommendation for the Development of Android App Features based on the Knowledge Mined from App Stores. Science of Computer Programming（2021.02）
-Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui
+Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui
 
 [17]App recommendation based on both quality and security. Journal of Software:Evolution and Process（2020.11）
-Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui
+Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui
 
 [18]Updating the Goal Model with User Reviews for the Evolution of an App. Journal of Software:Evolution and Process（2020.08）
-Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui
+Authors:Gao Shanquan, Liu Lei, Liu Yuzhou*, Wang Yihui
 
 [19]Combining Goal Model with Reviews for Supporting the Evolution of APPs. IET Software（2020.02）
-Yuzhou Liu, Lei Liu, Huaxiao Liu*, Shanquan Gao
+Authors:Yuzhou Liu, Lei Liu, Huaxiao Liu*, Shanquan Gao
 
 [20]App Store Mining for Iterative Domain Analysis:Combine App descriptions with user Reviews. Software:Practice and Experience (2019.06)
-Liu Yuzhou, Liu Lei, Liu Huaxiao*, Yin Xinglong
+Authors:Liu Yuzhou, Liu Lei, Liu Huaxiao*, Yin Xinglong
 
 [21]Analyzing Reviews Guided by App Description for the Software Development and Evolution. Journal of software-evolution and process (2018.12) 
-Yuzhou Liu, Lei Liu, Huaxiao Liu*, Xiaoyu Wang
+Authors:Yuzhou Liu, Lei Liu, Huaxiao Liu*, Xiaoyu Wang
 
 [22]Mining Domain Knowledge from App Descriptions. Journal of system and software (2017.11)
-Yuzhou Liu, Lei Liu, Huaxiao Liu*, Xiaoyu Wang
+Authors:Yuzhou Liu, Lei Liu, Huaxiao Liu*, Xiaoyu Wang
 
 [23]The Verification of Program Relationships in the Context of Software Cybernetics. Journal of Systems and Software (2017.02)
-LIU Huaxiao,LIU Yuzhou,LIU Lei*
+Authors:LIU Huaxiao,LIU Yuzhou,LIU Lei*
 
 [24]AGAA: An Android GUI Accessibility Adapter for Low Vision Users.  IEEE Annual International Computer Software and Applications Conference (COMPSAC)2023
 
