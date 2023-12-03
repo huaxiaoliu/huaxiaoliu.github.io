@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 **Personal Information**  
-[Liu Huaxiao](https://ccst.jlu.edu.cn/info/1208/17368.htm)[(刘华虓)]  
+[Liu Huaxiao(刘华虓)](https://ccst.jlu.edu.cn/info/1208/17368.htm)
 Associate Professor  
-[JiLin University(JLU)](https://www.jlu.edu.cn/) [(吉林大学)]
+[JiLin University(JLU 吉林大学)](https://www.jlu.edu.cn/)
 E-mail:liuhuaxiao@jlu.edu.cn
 
 
