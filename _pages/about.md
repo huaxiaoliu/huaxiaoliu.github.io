@@ -47,11 +47,11 @@ NEWS
 Representative academic papers published
 ======
 [1]**AccessFixer: Enhancing GUI Accessibility for Low Vision Users with R-GCN Model.**  
-IEEE Transactions on Software Engineering(2023 CCF-A)  
+IEEE Transactions on Software Engineering(2024 CCF-A)  
 Authors: Zhang Mengxi, **Liu Huaxiao***, Chen Chunyang, Gao Guangyong, Li Han, Zhao Jian  
  
 [2]**Which animation API should I use next? A multi-modal real-time animation API recommendation model for Android apps**.  
-IEEE Transactions on Software Engineering(2023 CCF-A)  
+IEEE Transactions on Software Engineering(2024 CCF-A)[PDF](https://ieeexplore.ieee.org/document/10348017)    
 Authors:Gao Shanquan, Zhang Liyuan, **Liu Huaxiao**, Wang Yihui  
 
 [3]**Automated Mapping of Adaptive App GUIs from Phones to TVs.**  
