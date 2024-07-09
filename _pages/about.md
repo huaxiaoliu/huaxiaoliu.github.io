@@ -13,6 +13,8 @@ redirect_from:
 Associate Professor  
 [JiLin University(JLU 吉林大学)](https://www.jlu.edu.cn/)
 E-mail:liuhuaxiao@jlu.edu.cn
+QQ:466530609
+Wechat：zippo_lazio
 
 
 Personal Profile：
