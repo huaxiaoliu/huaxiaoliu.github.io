@@ -188,7 +188,7 @@ Expert Systems with Applications(2024.3 CCF-C 中科院1区)[PDF](https://www.sc
 Authors:Zhang Mengxi,Zhang Yan,Gao Guangyong,**Liu Huaxiao***   
 
 **UiAnalyzer: Evaluating whether the UI of apps is at the risk of violating the design conventions in terms of function layout**.    
-Expert Systems with Applications(2024 CCF-C)[PDF](https://www.sciencedirect.com/science/article/pii/S095741742302910X)   
+Expert Systems with Applications(2024 CCF-C 中科院一区)[PDF](https://www.sciencedirect.com/science/article/pii/S095741742302910X)   
 Authors:Gao Shanquan, Wang Yihui, **Liu Huaxiao**   
 
 **Automating discussion structure re-organization for GitHub issues.**   
