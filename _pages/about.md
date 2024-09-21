@@ -58,6 +58,8 @@ Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before t
  
 NEWS
 ======
+2024/9      Two reasearch papers were published on ACM Transactions on Design Automation of Electronic Systems(TODAES) and Information and Software Technology(IST)
+
 2024/6      Our reasearch paper was accepted by IEEE Transactions on Software Engineering(TSE)
 
 2023/11     Two reasearch papers were accepted by IEEE Transactions on Software Engineering(TSE)
@@ -96,6 +98,14 @@ Authors: Hu Han, Dong Ruiqi, Grundy John, Nguyen Thai, **Liu Huaxiao**, Chen Chu
 **Animation2API: API Recommendation for the Implementation of Android UI Animations.**  
 IEEE Transactions on Software Engineering(2023.09 CCF-A)[PDF](https://ieeexplore.ieee.org/document/10215056)  
 Authors: Wang Yihui, **Liu Huaxiao***, Gao Shanquan  
+
+**Are your apps accessible? A GCN-based accessibility checker for low vision users**.  
+Information and Software Technology(2024.10 CCF-B)[PDF](https://www.sciencedirect.com/science/article/pii/S095058492400123X?via%3Dihub)  
+Authors:Mengxi Zhang, **Liu Huaxiao***,Shenning Song,Chunyang Chen,Pei Huang,Jian Zhao  
+
+**A Power Optimization Approach for Large-scale RM-TB Dual Logic Circuits Based on an Adaptive Multi-Task Intelligent Algorithm**.  
+ACM Transactions on Design Automation of Electronic Systems(2024.08 CCF-B)[PDF](https://dl.acm.org/doi/10.1145/3677033)  
+Authors:Xiaoqian Wu,**Liu Huaxiao***,Peng Wang,Lei Liu,Zhenxue He  
 
 **CoAxNN: Optimizing on-device deep learning with conditional approximate neural networks**.  
 Journal of Systems Architecture(2023.10 CCF-B)[PDF](https://www.sciencedirect.com/science/article/pii/S1383762123001571)  
@@ -184,6 +194,10 @@ Authors:Gao Shanquan, Wang Yihui, **Liu Huaxiao**
 **Automating discussion structure re-organization for GitHub issues.**   
 Expert Systems with Applications(2023.9 CCF-C 中科院一区)[PDF](https://www.sciencedirect.com/science/article/pii/S0957417423005262)   
 Authors:Bai Shuotong,Liu Lei,Meng Chenkun,**Liu Huaxiao***  
+
+**Learning Heterogeneous Abstract Code Graph Representations For Program Comprehension**.   
+APSEC 2024(2024.12 CCF-C)  
+Authors:Shenning Song,Mengxi Zhang，Shaoquan Li，**Liu Huaxiao*** 
 
 **AGAA: An Android GUI Accessibility Adapter for Low Vision Users**.   
 IEEE Annual International Computer Software and Applications Conference (COMPSAC 2023.6 CCF-C)[PDF](https://ieeexplore.ieee.org/document/10197115)  
