@@ -58,31 +58,39 @@ Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before t
  
 NEWS
 ======
-2025/03      Our reasearch paper was published by ICSE25：Software Engineering in Practice (SEIP) 
+2025/03     Our reasearch paper was accepted by ACM Transactions on Software Engineering and Methodology(TOSEM)  
 
-2024/10      Our reasearch paper was accepted by IEEE Transactions on Software Engineering(TSE)
+2025/03     Two reasearch papers was accepted by Science of Computer Programming(SCP) and Expert Systems with Applications(ESWA)
 
-2024/09      Two reasearch papers were published on ACM Transactions on Design Automation of Electronic Systems(TODAES) and Information and Software Technology(IST)
+2025/02     Our reasearch paper was published by ICSE25：Software Engineering in Practice (SEIP) 
 
-2024/06      Our reasearch paper was accepted by IEEE Transactions on Software Engineering(TSE)
+2024/10     Our reasearch paper was accepted by IEEE Transactions on Software Engineering(TSE)
+
+2024/09     Two reasearch papers were published on ACM Transactions on Design Automation of Electronic Systems(TODAES) and Information and Software Technology(IST)
+
+2024/06     Our reasearch paper was accepted by IEEE Transactions on Software Engineering(TSE)
 
 2023/11     Two reasearch papers were accepted by IEEE Transactions on Software Engineering(TSE)
 
 2023/10     One reasearch paper was accepted by ACM Transactions on Software Engineering and Methodology(TOSEM)  
 
-2023/09      Our reasearch paper was published on IEEE Transactions on Software Engineering(TSE)
+2023/09     Our reasearch paper was published on IEEE Transactions on Software Engineering(TSE)
 
-2023/09      New paper accepted at Expert Systems with Applications
+2023/09     New paper accepted at Expert Systems with Applications
 
-2023/06      New paper accepted at Information and Software Technology
+2023/06     New paper accepted at Information and Software Technology
 
-2023/03      New paper accepted at Science of Computer Programming
+2023/03     New paper accepted at Science of Computer Programming
 
 
 
 
 Representative academic papers published
 ======
+**Distinguishing GUI Component States for Blind Users using Large Language Models**  
+ACM Transactions on Software Engineering and Methodology(2025.03 CCF-A) [PDF](http://dx.doi.org/10.1145/3722106)   
+Authors: Zhang Mengxi, **Liu Huaxiao***, Du Changhao, Wang Tengmei, Li Han, Huang Pei, Chen Chunyang
+
 **Agent for User: Testing Multi-User Interactive Features in TikTok**  
 ICSE 2025 SE In Practice (SEIP)(CCF-A SEIP Track) [PDF](https://conf.researchr.org/details/icse-2025/icse-2025-software-engineering-in-practice/56/Agent-for-User-Testing-Multi-User-Interactive-Features-in-TikTok)   
 Authors: Sidong Feng, Changhao Du, **Huaxiao Liu**, Qingnan Wang, Zhengwei Lv, Gang Huo, Xu Yang, Chunyang Chen
@@ -198,6 +206,10 @@ Authors:Liu Yuzhou,Liu Lei, **Liu Huaxiao***
 **The Verification of Program Relationships in the Context of Software Cybernetics**.   
 Journal of Systems and Software (2017.02 CCF-B)[PDF](https://www.sciencedirect.com/science/article/pii/S0164121216000224)   
 Authors:**Liu Huaxiao**,Liu Yuzhou,Liu Lei*   
+
+**CLG: Automated Checklist Generation for Improved Pull Request Quality**.  
+Expert Systems with Applications(2025.06 CCF-C 中科院一区)
+Authors:Bai Shuotong, Meng Chenkun, Li Guodong, **Liu Huaxiao** 
 
 **Enhancing accessibility of web-based SVG buttons: An optimization method and best practices.**   
 Expert Systems with Applications(2024.3 CCF-C 中科院1区)[PDF](https://www.sciencedirect.com/science/article/pii/S0957417423023850)     
