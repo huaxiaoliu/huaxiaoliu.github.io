@@ -76,11 +76,11 @@ NEWS
 
 2023/09     Our reasearch paper was published on IEEE Transactions on Software Engineering(TSE)
 
-2023/09     New paper accepted at Expert Systems with Applications
+2023/09     New paper accepted at Expert Systems with Applications(ESWA)
 
-2023/06     New paper accepted at Information and Software Technology
+2023/06     New paper accepted at Information and Software Technology(IST)
 
-2023/03     New paper accepted at Science of Computer Programming
+2023/03     New paper accepted at Science of Computer Programming(SCP)
 
 
 
