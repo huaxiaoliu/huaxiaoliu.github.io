@@ -33,7 +33,7 @@ Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before t
 
 **主讲课程包括**,**本科生课程《编译原理与实现》**、**研究生课程《程序分析技术》**，在2022-2023第二学期、2023-2024第一学期，**学生综合课程教评分列全校前1%和3%**。
 
-**在科研方面**,以数据驱动为核心，面向软件社区及现实世界中切实存在的问题，利用包括文本分析、数据挖掘、代码分析、深度学习等技术探索解决方案。所涉及的研究领域主要包括：**软件工程、人机交互、数据挖掘、专家系统**。此外在**移动信息无障碍**领域开展了前沿探索，意图帮助视障群体可以平等、便捷、无障碍的与移动应用进行交互。2017年至今发表SCI检索论文**40**余篇，其中包**CCF推荐A类期刊**IEEE Transactions on Software Engineering（TSE）、ACM Transactions on Software Engineering and Methodology（TOSEM）**6篇**，实现了吉林大学在软件工程领域顶级期刊发表上的突破。在**CCF推荐A类会议**ICSE25的SEIP track发表论文**1篇**，B类/中科院1区期刊Information and Software Technology、Information Sciences、Journal of Systems and Software、Journal of Software: Evolution and Process、Software: Practice and Experience、IET Software、Science of Computer Programming、Journal of Computer Science& Technology等**发表论文26篇。**
+**在科研方面**,以数据驱动为核心，面向软件社区及现实世界中切实存在的问题，利用包括文本分析、数据挖掘、代码分析、深度学习等技术探索解决方案。所涉及的研究领域主要包括：**软件工程、人机交互、数据挖掘、专家系统**。此外在**移动信息无障碍**领域开展了前沿探索，意图帮助视障群体可以平等、便捷、无障碍的与移动应用进行交互。2017年至今发表SCI检索论文**40**余篇，其中包**CCF推荐A类期刊**IEEE Transactions on Software Engineering（TSE）、ACM Transactions on Software Engineering and Methodology（TOSEM）、IEEE Transactions on Computers(TC)**8篇**，实现了吉林大学在软件工程领域顶级期刊发表上的突破。在**CCF推荐A类会议**ICSE25的SEIP track发表论文**1篇**，B类/中科院1区期刊Information and Software Technology、Information Sciences、Journal of Systems and Software、Journal of Software: Evolution and Process、Software: Practice and Experience、IET Software、Science of Computer Programming、Journal of Computer Science& Technology等**发表论文29篇。**
 
 **主持项目包括：**
 
@@ -58,9 +58,11 @@ Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before t
  
 NEWS
 ======
+2025/03     Two reasearch papers were accepted by IEEE Transactions on Computers(TC) and Displays  
+
 2025/03     Our reasearch paper was accepted by ACM Transactions on Software Engineering and Methodology(TOSEM)  
 
-2025/03     Two reasearch papers was accepted by Science of Computer Programming(SCP) and Expert Systems with Applications(ESWA)
+2025/03     Two reasearch papers were accepted by Science of Computer Programming(SCP) and Expert Systems with Applications(ESWA)
 
 2025/02     Our reasearch paper was published by ICSE25：Software Engineering in Practice (SEIP) 
 
@@ -87,6 +89,10 @@ NEWS
 
 Representative academic papers published
 ======
+**An Area Optimization Approach for Large-Scale RM-TB Dual Logic Circuits Based on a Multitasking Optimization Algorithm**  
+IEEE Transactions on Computers(2025.03 CCF-A)  
+Authors: Wu Xiaoqian, Wang Peng, Li shaoquan, Liu Lei, **Liu Huaxiao***
+
 **Distinguishing GUI Component States for Blind Users using Large Language Models**  
 ACM Transactions on Software Engineering and Methodology(2025.03 CCF-A) [PDF](http://dx.doi.org/10.1145/3722106)   
 Authors: Zhang Mengxi, **Liu Huaxiao***, Du Changhao, Wang Tengmei, Li Han, Huang Pei, Chen Chunyang
