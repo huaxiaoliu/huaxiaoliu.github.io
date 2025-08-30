@@ -33,31 +33,39 @@ Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before t
 
 **主讲课程包括**,**本科生课程《编译原理与实现》**、**研究生课程《程序分析技术》**，在2022-2023第二学期、2023-2024第一学期，**学生综合课程教评分列全校前1%和3%**。
 
-**在科研方面**,以数据驱动为核心，面向软件社区及现实世界中切实存在的问题，利用包括文本分析、数据挖掘、代码分析、深度学习等技术探索解决方案。所涉及的研究领域主要包括：**软件工程、人机交互、数据挖掘、专家系统**。此外在**移动信息无障碍**领域开展了前沿探索，意图帮助视障群体可以平等、便捷、无障碍的与移动应用进行交互。2017年至今发表SCI检索论文**40**余篇，其中包**CCF推荐A类期刊**IEEE Transactions on Software Engineering（TSE）、ACM Transactions on Software Engineering and Methodology（TOSEM）、IEEE Transactions on Computers (TC) **8篇**，实现了吉林大学在软件工程领域顶级期刊发表上的突破。在**CCF推荐A类会议**ICSE25的SEIP track发表论文**1篇**，B类/中科院1区期刊Information and Software Technology、Information Sciences、Journal of Systems and Software、Journal of Software: Evolution and Process、Software: Practice and Experience、IET Software、Science of Computer Programming、Journal of Computer Science& Technology等**发表论文29篇。**
+**在科研方面**,以数据驱动为核心，面向软件社区及现实世界中切实存在的问题，利用包括文本分析、数据挖掘、代码分析、深度学习等技术探索解决方案。所涉及的研究领域主要包括：**软件工程、人机交互、数据挖掘、专家系统**。此外在**移动信息无障碍**领域开展了前沿探索，意图帮助视障群体可以平等、便捷、无障碍的与移动应用进行交互。2017年至今发表SCI检索论文**40**余篇，其中包**CCF推荐A类期刊**IEEE Transactions on Software Engineering（TSE）、ACM Transactions on Software Engineering and Methodology（TOSEM）、IEEE Transactions on Computers (TC)，**CCF推荐A类会议**ICSE26，**10篇**，实现了吉林大学在软件工程领域顶级期刊发表上的突破。在B类/中科院1区期刊Information and Software Technology、Information Sciences、Journal of Systems and Software、Journal of Software: Evolution and Process、Software: Practice and Experience、IET Software、Science of Computer Programming、Journal of Computer Science& Technology等**发表论文29篇。**
 
 **主持项目包括：**
 
-1.**国家重点研发计划子课题** 智能算法库
+1.**国家自然科学基金面上项目** 基于垂直大模型的鸿蒙多端GUI优化与测试方法研究  2026.1-2029.12
 
-2.**字节跳动公司校企合作项目** 基于LLM的移动应用自动化测试方法
+2.**煤工研究总院人工智能研究院** 矿井感知层数据对象模型项目 2025.7-2026.7
 
-3.**中科方德国产操作系统项目** 国产架构软件适配
+3.**汇翼智铲公司合作研发项目** 装载机智能驾驶算法开发 2025.7-2026.7
 
-4.**中国航空综合技术研究所算法开发项目** 故障树分析高效算法研究与开发
+4.**字节跳动公司校企合作项目** 基于LLM的移动应用自动化测试方法 2023.10-2024.10 
 
-5.**吉林省自然科学基金面上项目** 低视力用户的移动应用GUI无障碍化方法和关键技术研究
+5.**中科方德国产操作系统项目** 国产架构软件适配 2024.1-2024.12
 
-5.**北京波尔通讯科技股份有限公司** 逻辑电路面积优化系统
+6.**中国航空综合技术研究所算法开发项目** 故障树分析高效算法研究与开发 2024.7-2024.12
+
+7.**吉林省自然科学基金面上项目** 低视力用户的移动应用GUI无障碍化方法和关键技术研究 2023.1-2025.12
+
+8.**北京波尔通讯科技股份有限公司** 逻辑电路面积优化系统 2023.10~2025.10
+
+9.**国家重点研发计划子课题** 智能算法库 2017.9-2020.10
 
 6.**吉林大学青年师生交叉培育项目** 基于深度学习的移动信息无障碍检测及实时优化方法研究
 
 7.**吉林省青年科研基金项目、吉林大学优秀青年教师重点培养计划、吉林大学优青培育资助计划**等
 
-**2020年以来累计到款400余万元。**
+**2020年以来累计经费500余万元。**
 
  
 NEWS
 ======
+2025/8      获批国家自然科学基金面上项目
+
 2025/03     Two reasearch papers were accepted by IEEE Transactions on Computers(TC) and Displays  
 
 2025/03     Our reasearch paper was accepted by ACM Transactions on Software Engineering and Methodology(TOSEM)  
