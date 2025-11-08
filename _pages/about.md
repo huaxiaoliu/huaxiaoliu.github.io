@@ -22,14 +22,14 @@ Wechat：zippo_lazio
 Personal Profile：
 ======   
   
-Liu Huaxiao is a Associate Professor of JiLin University, China (2013-).Before that,he received education at Jilin University and obtained bachelor's and doctoral degrees(2005--2013), and was surpervised by Professor Jin Ying.He also worked as a member of the Software Engineering Committee of China Computer Federation.      
+Liu Huaxiao is a Professor of JiLin University, China (2013-).Before that,he received education at Jilin University and obtained bachelor's and doctoral degrees(2005--2013), and was surpervised by Professor Jin Ying.He also worked as a member of the Software Engineering Committee of China Computer Federation.      
 
  **Research foucus on:**  
  · Accessibility  
  · Android App Analysis  
  · Software Repository Mining
 
-**刘华虓**，1986年出生，吉林长春人。2005-2013年 在吉林大学计算机学院分获学士、博士学位，师从金英教授。2013年博士毕业后留校任教，2017年晋升为副教授，2018~2019年起获得博士研究生招生资格，2017年当选中国计算机学会软件工程专业委员会委员，现任中国计算机学会公益工作委员会委员。
+**刘华虓**，1986年出生，吉林长春人。2005-2013年 在吉林大学计算机学院分获学士、博士学位，师从金英教授。2013年博士毕业后留校任教，2017年晋升为副教授，2018~2019年起获得博士研究生招生资格，2017年当选中国计算机学会软件工程专业委员会委员，2025年晋升教授，现任中国计算机学会公益工作委员会委员。
 
 **主讲课程包括**,**本科生课程《编译原理与实现》**、**研究生课程《程序分析技术》**，在2022-2023第二学期、2023-2024第一学期，**学生综合课程教评分列全校前1%和3%**。
 
